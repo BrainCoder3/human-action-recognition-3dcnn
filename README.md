@@ -94,4 +94,4 @@ No pretrained model was used.
 
 Explicit motion information substantially improved generalization.
 
-The RGB-only model achieved 70.5% accuracy, while adding frame-difference motion channels increased test accuracy to 84.7%.
+The RGB-only model achieved 70.5% accuracy, while adding frame-difference motion channels increased test accuracy to 84.7%.# human-action-recognition-3dcnn
