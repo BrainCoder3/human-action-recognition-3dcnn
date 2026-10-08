@@ -1,0 +1,18 @@
+# Data
+data/raw/
+data/processed/
+data/processed_sequences/
+data/processed_stride2/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+.vscode/
